@@ -2,7 +2,7 @@
 Preparing for a coding interview is difficult, but preparing for a coding interviw in one of the top companies like Google, Microsoft, Amazon, Meta, Booking, Linking, ... can be even harder.
 
 Some frirend gave me some tips based on his experience entering one of this. After preparing for like 6 months this is what he suggested:
-- Train by using leetcode.com (can be another like hackerrank.com), you should be able to solve 1 medium problem in 20 minutes (usually you need to solve 2 in ~40 minutes)
+- Train by using [leetcode.com](https://leetcode.com/) (can be another like [hackerrank.com](https://www.hackerrank.com/)), you should be able to solve 1 medium problem in 20 minutes (usually you need to solve 2 in ~40 minutes)
 - Learn System Design hard, and gave me some references
 - - Read books System Design Interview by Alex Xu and System Design Interview Part 2 by Alex Xu and Shan Lam
 - - I would add a book that it make take more time, and it is Designing Data Intensive Applications by Martin Kleppmann, I'm reading it and it is great and it is related to this topic
