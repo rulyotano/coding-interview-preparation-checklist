@@ -212,7 +212,7 @@ I also think, that even if we finally don't make an application to one of this c
 
 - [ ] **Object modeling** (not required for all companies)
 - - [ ] Basics of UML
-- - [ ] Design patterns (I will let (this reference)[https://refactoring.guru/design-patterns] here, it is the Refactoring Guru site, it explain easy a lot of design patterns
+- - [ ] Design patterns (I will let [this reference](https://refactoring.guru/design-patterns) here, it is the Refactoring Guru site, it explain easy a lot of design patterns
 - - - [ ] Composite pattern
 - - - [ ] Decorator pattern
 - - - [ ] Facade pattern
