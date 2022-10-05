@@ -3,10 +3,12 @@ Preparing for a coding interview is difficult, but preparing for a coding interv
 
 Some frirend gave me some tips based on his experience entering one of this. After preparing for like 6 months this is what he suggested:
 - Train by using [leetcode.com](https://leetcode.com/) (can be another like [hackerrank.com](https://www.hackerrank.com/)), you should be able to solve 1 medium problem in 20 minutes (usually you need to solve 2 in ~40 minutes)
+- - I recommend a good and popular book named [Cracking the Coding Interview](https://www.amazon.es/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_2?pd_rd_i=0984782850&psc=1), which give us an introduction to this kind of intervies but a also takes us along a some basic algorithms and data structures (which we all should know about).
 - Learn System Design hard, and gave me some references
-- - Read books System Design Interview by Alex Xu and System Design Interview Part 2 by Alex Xu and Shan Lam
-- - I would add a book that it make take more time, and it is Designing Data Intensive Applications by Martin Kleppmann, I'm reading it and it is great and it is related to this topic
+- - Read books [System Design Interview by Alex Xu](https://www.amazon.es/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) and [System Design Interview Part 2 by Alex Xu and Shan Lam](https://www.amazon.es/System-Design-Interview-Insiders-Guide/dp/1736049119/ref=pd_lpo_1?pd_rd_i=1736049119&psc=1)
+- - I would add a book that it make take more time, and it is [Designing Data Intensive Applications by Martin Kleppmann](https://www.amazon.es/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=pd_lpo_3?pd_rd_i=1449373321&psc=1), I'm reading it and it is great and it is related to this topic
 - - Pass the following course [Grokking Modern System Design Interview for Engineers & Managers](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
+- - A good repository to check: [The System Design Primer](https://github.com/donnemartin/system-design-primer#company-engineering-blogs)
 - And by last, he gave me the following the check list of topics that when you know all of them or almost most of them, you will be confident in your interviews. The list is taken [from here](https://global-uploads.webflow.com/5d0cef7a72ca1b074065dfda/6221f7158d6664975f41f43a_IK_Tech_Int_Checklist_3Mar22.pdf).
 
 I wanted to take this check list into a github repo, because I can customize it. I can create a branch per company, or what ever I want. I can create directories with `README.md` files (to describe problems and algorithms) and containing problem solutions covering each topics. We can add links from here (each list point) to those repositories directories. We can customize and track the progress however we want.
