@@ -10,8 +10,7 @@ Some frirend gave me some tips based on his experience entering one of this. Aft
 - - Pass the following course [Grokking Modern System Design Interview for Engineers & Managers](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
 - - A good repository to check: [The System Design Primer](https://github.com/donnemartin/system-design-primer#company-engineering-blogs)
 - And by last, he gave me the following the check list of topics that when you know all of them or almost most of them, you will be confident in your interviews. The list is taken [from here](https://global-uploads.webflow.com/5d0cef7a72ca1b074065dfda/6221f7158d6664975f41f43a_IK_Tech_Int_Checklist_3Mar22.pdf).
-- [Latency times](https://gist.github.com/jboner/2841832)
-
+- [Latency times](https://gist.github.com/rulyotano/6c6250dfbd417c7bb7606ff8b44f0628)
 I wanted to take this check list into a github repo, because I can customize it. I can create a branch per company, or what ever I want. I can create directories with `README.md` files (to describe problems and algorithms) and containing problem solutions covering each topics. We can add links from here (each list point) to those repositories directories. We can customize and track the progress however we want.
 
 I also think, that even if we finally don't make an application to one of this company, knowing all of this is great for a Software Engeenier.
