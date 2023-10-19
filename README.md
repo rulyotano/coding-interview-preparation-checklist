@@ -8,7 +8,9 @@ Some friends gave me some tips based on his experience entering one of these. Af
 - - Read books [System Design Interview by Alex Xu](https://www.amazon.es/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) and [System Design Interview Part 2 by Alex Xu and Shan Lam](https://www.amazon.es/System-Design-Interview-Insiders-Guide/dp/1736049119/ref=pd_lpo_1?pd_rd_i=1736049119&psc=1). Also this one is free and it like a summary of System Design concepts by [ByteByteToGo](https://bytebytego.com/) ([System Design The Big Archive May 17- 2022](/system-desing-the-big-archive.pdf))
 - - I would add a book that it make take more time, and it is [Designing Data Intensive Applications by Martin Kleppmann](https://www.amazon.es/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/ref=pd_lpo_3?pd_rd_i=1449373321&psc=1), I'm reading it and it is great and it is related to this topic
 - - Pass the following course [Grokking Modern System Design Interview for Engineers & Managers](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
-- - A good repository to check: [The System Design Primer](https://github.com/donnemartin/system-design-primer#company-engineering-blogs)
+- - Good repositories to check:
+- - - [The System Design Primer](https://github.com/donnemartin/system-design-primer#company-engineering-blogs)
+- - - [ByteByteGo](https://github.com/ByteByteGoHq/system-design-101)
 - And by last, he gave me the following the checklist of topics that when you know all of them or almost most of them, you will be confident in your interviews. The list is taken [from here](https://global-uploads.webflow.com/5d0cef7a72ca1b074065dfda/6221f7158d6664975f41f43a_IK_Tech_Int_Checklist_3Mar22.pdf).
 - [Latency times](https://gist.github.com/rulyotano/6c6250dfbd417c7bb7606ff8b44f0628)
 - [Raft for kids](http://thesecretlivesofdata.com/raft/)
