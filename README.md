@@ -14,6 +14,7 @@ Some friends gave me some tips based on his experience entering one of these. Af
 - And by last, he gave me the following the checklist of topics that when you know all of them or almost most of them, you will be confident in your interviews. The list is taken [from here](https://global-uploads.webflow.com/5d0cef7a72ca1b074065dfda/6221f7158d6664975f41f43a_IK_Tech_Int_Checklist_3Mar22.pdf).
 - [Latency times](https://gist.github.com/rulyotano/6c6250dfbd417c7bb7606ff8b44f0628)
 - [Raft for kids](http://thesecretlivesofdata.com/raft/)
+- [Checkout this post](https://www.linkedin.com/posts/alexandre-zajac_softwareengineering-codinginterview-programming-activity-7143579701008142336-S9cv?utm_source=share&utm_medium=member_desktop)
 
 I wanted to take this checklist into a github repo, because I can customize it. I can create a branch per company, or whatever I want. I can create directories with `README.md` files (to describe problems and algorithms) and contain problem solutions covering each topic. We can add links from here (each list point) to those repositories directories. We can customize and track the progress however we want.
 
